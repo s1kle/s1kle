@@ -1,16 +1,15 @@
-### Hi there 👋
+## <p align="center">Hello world</p>
 
-<!--
-**s1kle/s1kle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <p align="center"/>I'm just your average coder from Russia who enjoys building things.
 
-Here are some ideas to get you started:
+`I mainly work with:`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ***c#*** (unity/asp.net/wpf)
+- ***typescript*** (angular or other frontend stuff)
+- ***lua*** (modding my favorite games)
+
+`You can contact me at:`
+- Email: [s1klem4@gmail.com](mailto:s1klem4@gmail.com) 
+- Telegram: [@s1kle_github](https://t.me/s1kle_github).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1kle&layout=compact)](https://github.com/s1kle/github-readme-stats)
