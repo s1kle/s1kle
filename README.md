@@ -1,12 +1,12 @@
 ## <p align="center">Hello world!</p>
 
-### <p align="center"/>I'm just your average coder from Russia who enjoys building things.
+### <p align="center"/>I'm just an average coder from Russia who enjoys building things.
 
 `I mainly work with:`
 
-- ***c#*** (unity/asp.net/wpf)
-- ***typescript*** (angular or other frontend stuff)
-- ***lua*** (modding my favorite games)
+- ***c#***
+- ***typescript***
+- ***lua***
 
 `You can contact me at:`
 - ***email***: [s1klem4@gmail.com](mailto:s1klem4@gmail.com) 
